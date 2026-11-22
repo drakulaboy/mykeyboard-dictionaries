@@ -7,6 +7,22 @@
    "file": "packs/ru_full.zip",
    "size": 4242499,
    "sha256": "62b00bcea9fc6db0d0779f7ae2049820ccfe628e971010ed77e4c69462666e9f"
+  },
+  {
+   "lang": "en",
+   "name": "Full English dictionary",
+   "version": 1,
+   "file": "packs/en_full.zip",
+   "size": 53906,
+   "sha256": "430b21d311ef8e8074ce6ff07f49648f6d8d96f5e85f6e36cb646bdcbe002f5b"
+  },
+  {
+   "lang": "ro",
+   "name": "Dicționar complet românesc",
+   "version": 1,
+   "file": "packs/ro_full.zip",
+   "size": 191341,
+   "sha256": "33b0eab3d6d77f2a19c65571bcb3433d9ba9c50c73165a9051cc8b600ee94639"
   }
  ]
 }
