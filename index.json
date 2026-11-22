@@ -9,6 +9,14 @@
    "sha256": "62b00bcea9fc6db0d0779f7ae2049820ccfe628e971010ed77e4c69462666e9f"
   },
   {
+   "lang": "uk",
+   "name": "Повний український словник",
+   "version": 1,
+   "file": "packs/uk_full.zip",
+   "size": 62706,
+   "sha256": "cbe08c32853ff6e50ff17559cc9c9c7fee44656e17f640c992bf7cc3c2d0abc7"
+  },
+  {
    "lang": "en",
    "name": "Full English dictionary",
    "version": 1,
