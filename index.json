@@ -1,0 +1,12 @@
+{
+ "packs": [
+  {
+   "lang": "ru",
+   "name": "Полный русский словарь",
+   "version": 1,
+   "file": "packs/ru_full.zip",
+   "size": 4242499,
+   "sha256": "62b00bcea9fc6db0d0779f7ae2049820ccfe628e971010ed77e4c69462666e9f"
+  }
+ ]
+}
