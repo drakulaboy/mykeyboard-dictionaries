@@ -26,6 +26,7 @@ Installing replaces the lists that were added earlier with «➕ Добавит�
 | Українська | `packs/uk_full.zip` | 1 |
 | English | `packs/en_full.zip` | 1 |
 | Română | `packs/ro_full.zip` | 1 |
+| Кыргызча | `packs/ky_full.zip` | 1 |
 
 ## Format (for people who make packs)
 

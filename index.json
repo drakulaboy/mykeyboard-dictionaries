@@ -31,6 +31,14 @@
    "file": "packs/ro_full.zip",
    "size": 191341,
    "sha256": "33b0eab3d6d77f2a19c65571bcb3433d9ba9c50c73165a9051cc8b600ee94639"
+  },
+  {
+   "lang": "ky",
+   "name": "Кыргыз тилинин толук сөздүгү",
+   "version": 1,
+   "file": "packs/ky_full.zip",
+   "size": 798349,
+   "sha256": "25bfadd038e78b246958c94edeaadfc726088df40a0e844d0642afb145389804"
   }
  ]
 }
